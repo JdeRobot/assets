@@ -53,7 +53,8 @@ La capa de abstracción de hardware (HAL, Hardware Abstraction Layer) está comp
 | 10 | Dongle Wifi     | TP-LINK TL-WN823N - Mini adaptador inalámbrico USB | 10.99 €                | [Proveedor1](http://amzn.eu/b7FWw1E) |
 | 11 | Junta tórica     | 5 piezas 50 mm Diámetro exterior arandelas de goma | 5.64 €                | Ferretería |
 | 12 | Módulo Alimentación | Protoboard - SODIAL(R)Modulo Alimentacion Breadboard Protoboard Arduino Electronica | 1,16 € | [Proveedor 1](http://amzn.eu/d/6S41G1r) |
-|   | **TOTAL**       |                                                          | **176,80 €**   |  |
+| 13 | Disipador de calor | Aukru | 3,99 € | [Proveedor 1](https://www.amazon.es/Aukru-Disipador-Raspberry-aluminio-unidades/dp/B00ILK6DMA/ref=sr_1_1_sspa?ie=UTF8&qid=1551110278&sr=8-1-spons&keywords=disipador+calor+raspberry+pi+3&psc=1&smid=A1YTR8UCVRSI8N) |
+|   | **TOTAL**       |                                                          | **180,79 €**   |  |
 
 
 
