@@ -9,7 +9,7 @@
 
    <!-- A global light source -->
     <include>
-      <uri>model://red_ball</uri>
+      <uri>model://blue_ball</uri>
       <pose>1 0 .1 0 0 0</pose>
     </include>
 
