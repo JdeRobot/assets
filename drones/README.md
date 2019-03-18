@@ -53,7 +53,7 @@ roslaunch px4 mavros_posix_sitl.launch
 ```
 It will load the default 3DR Iris model in Gazebo:
 
-![3DR Iris](/images/3DR_Iris.jpg?raw=true)
+![3DR Iris](/drones/images/3DR_Iris.jpg?raw=true)
 
 
 For launching the 3DR Solo model, use:
@@ -62,7 +62,7 @@ For launching the 3DR Solo model, use:
 roslaunch px4 mavros_posix_sitl.launch vehicle:=solo 
 ```
 
-![3DR Solo](/images/3DR_Solo.jpg?raw=true)
+![3DR Solo](/drones/images/3DR_Solo.jpg?raw=true)
 
 ## Adding a front camera to the simulated model
 
@@ -72,7 +72,7 @@ If you need to simulate a quadcopter with front RGB camera, you can launch the i
 roslaunch px4 mavros_posix_sitl.launch vehicle:=iris_fpv_cam
 ```
 
-![3DR Iris FPV Cam](/images/3DR_Iris_fpvcam.jpg?raw=true)
+![3DR Iris FPV Cam](/drones/images/3DR_Iris_fpvcam.jpg?raw=true)
 
 *Note: Sometimes there are problems with launching the former vehicle, and Gazebo crashes. It needs to be checked.
 For those cases, there is already a solution that would be addressed here in the near future.* 
