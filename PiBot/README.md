@@ -55,7 +55,8 @@ La capa de abstracción de hardware (HAL, Hardware Abstraction Layer) está comp
 | 12 | Módulo Alimentación | Protoboard - SODIAL(R)Modulo Alimentacion Breadboard Protoboard Arduino Electronica | 1,16 € | [Proveedor 1](http://amzn.eu/d/6S41G1r) |
 | 13 | Disipador de calor | Aukru | 3,99 € | [Proveedor 1](https://www.amazon.es/Aukru-Disipador-Raspberry-aluminio-unidades/dp/B00ILK6DMA/ref=sr_1_1_sspa?ie=UTF8&qid=1551110278&sr=8-1-spons&keywords=disipador+calor+raspberry+pi+3&psc=1&smid=A1YTR8UCVRSI8N) |
 | 14 | Cable USB-Pines | Cable Conversor USB a Serie RS232 UART TTL SERIAL CABLE PL2303TA 3,3V | 6.10 € | [Proveedor1](https://www.amazon.es/gp/product/B07C7PNWJS/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) |
-|   | **TOTAL**       |                                                          | **186.89 €**   |  |
+| 15 | Tornillos | Longitud: 10mm, Diámetro: 2.5mm | 2.99€ | [Proveedor1](https://www.bauhaus.es/tornillos-metricos/stabilit-tornillo-de-cabeza-avellanada-vz/p/21307447)|
+|   | **TOTAL**       |                                                          | **189.88 €**   |  |
 
 
 
