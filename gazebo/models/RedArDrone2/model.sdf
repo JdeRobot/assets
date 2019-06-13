@@ -31,7 +31,7 @@
       <velocityZDifferentialGain>0.5</velocityZDifferentialGain>
       <velocityZIntegralGain>0.0</velocityZIntegralGain>
       <!-- Ice configuration -->
-      <iceConfigFile>quadrotorplugin2.cfg</iceConfigFile>
+      <iceConfigFile>quadrotorplugin2_red.cfg</iceConfigFile>
       <!--iceAdapterPort>9000</iceAdapterPort-->
   </plugin>
     <link name='base_link'>
