@@ -2,8 +2,8 @@
 Changelog for package jderobot_assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.1 (2019-07-20)
+------------------
 * added position control
 * added rescue people
 * added visual_lander
