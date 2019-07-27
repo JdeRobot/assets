@@ -4,6 +4,6 @@ project(jderobot_assets)
 find_package(catkin REQUIRED COMPONENTS)
 catkin_package()
 
-install(DIRECTORY models worlds
+install(DIRECTORY models worlds perspectives
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 )
