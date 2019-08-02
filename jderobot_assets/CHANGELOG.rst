@@ -2,8 +2,8 @@
 Changelog for package jderobot_assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2019-08-02)
+------------------
 * updated dependancies
 * switched to car with beacon
 * added follow_turtlebot
