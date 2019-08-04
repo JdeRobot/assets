@@ -11,10 +11,14 @@
   <buildtool_depend>catkin</buildtool_depend>
   <depend>turtlebot3_description</depend>
   <depend>turtlebot3_gazebo</depend>
+  <depend>roscpp</depend>
+  <depend>gazebo_ros</depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
     <!-- Other tools can request additional information be placed here -->
+
+    <gazebo_ros plugin_path="${prefix}/lib" gazebo_media_path="${prefix}" />
 
   </export>
 </package>

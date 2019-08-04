@@ -7,3 +7,17 @@ The `kinetic-devel` branch has been released on the official ROS build farm and 
 ```bash
 sudo apt-get install ros-kinetic-jderobot-assets
 ```
+
+## ROS Distro Support
+
+|         | Kinetic |
+|:-------:|:-------:|
+| Branch  | [`kinetic-devel`](https://github.com/JdeRobot/assets/tree/kinetic-devel) |
+| Status  |  supported |
+| Version | [version](http://repositories.ros.org/status_page/ros_kinetic_default.html?q=jderobot_assets) |
+
+## ROS Buildfarm
+
+|         |  Kinetic Source  |  Kinetic Debian |
+|:-------:|:-------------------:|:-------------------:|
+| jderobot_assets | [![released](http://build.ros.org/buildStatus/icon?job=Ksrc_uX__jderobot_assets__ubuntu_xenial__source)](http://build.ros.org/view/Ksrc_uX/job/Ksrc_uX__jderobot_assets__ubuntu_xenial__source/) | [![released](http://build.ros.org/buildStatus/icon?job=Kbin_uX64__jderobot_assets__ubuntu_xenial_amd64__binary)](http://build.ros.org/view/Kbin_uX64/job/Kbin_uX64__jderobot_assets__ubuntu_xenial_amd64__binary/) |
