@@ -36,11 +36,6 @@
 			<pose>-4 13 0 0 0 0</pose>
 		</include>
 
-		<include>
-			<uri>model://iris_dual_cam</uri>
-			<pose>8 0 0.3 0 0 1.57</pose>
-		</include>
-
 		<road name="my_road">
 			<width>3</width>
 			<point>8 0 0.01</point>

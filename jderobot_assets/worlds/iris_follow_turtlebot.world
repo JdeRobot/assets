@@ -1,10 +1,6 @@
 <?xml version="1.0" ?>
 <sdf version="1.5">
 	<world name="default">
-		<include>
-			<uri>model://iris_dual_cam</uri>
-			<pose>3 1 0.1 0 0 0</pose>
-		</include>
 
 		<!-- A global light source -->
 		<include>

@@ -16,11 +16,6 @@
 		</include>
 
 		<include>
-			<uri>model://iris_dual_cam</uri>
-			<pose>0 0 0 0 0 0</pose>
-		</include>
-
-		<include>
 			<uri>model://logo_JdeRobot</uri>
 			<pose>-5.4041 0.171664 0 0 -0 0</pose>
 		</include>
