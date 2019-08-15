@@ -19,6 +19,7 @@
     <include>
       <uri>model://ground_plane</uri>
     </include>
+    
     <!-- Warehouse pallets -->
     <!--    <include>
           <uri>model://warehouse_pallet</uri>
@@ -26,7 +27,7 @@
         </include>
     -->
 
-  <!-- Temporarily delivered pallet -->
+    <!-- Temporarily delivered pallet -->
     <include>
       <uri>model://warehouse_pallet</uri>
 	    <name>warehouse_pallet_0</name>
@@ -122,8 +123,8 @@
     <population name="pallet_population5">
       <model name="pallet_set5">
         <include>
-        <uri>model://warehouse_pallet</uri>
-	      <pose>0 0 0 0 0 1.57</pose>
+          <uri>model://warehouse_pallet</uri>
+          <pose>0 0 0 0 0 1.57</pose>
         </include>
       </model>
       <pose>7 5 0 0 0 0</pose>
@@ -136,7 +137,6 @@
     </population>
 
     <!-- Put three Pallets each in Pickup and Delivery area too -->
-
     <population name="pallet_population6">
       <model name="pallet_set6">
         <include>
@@ -185,20 +185,20 @@
       </include>
 
     <!-- A visual element to show staging area
-	<model name="staging_area">
-	<link name="staging_area_link">
-	      <visual name="staging_area_visual">
-		<pose>10 0 0 0 0 0</pose>
-	        <cast_shadows>false</cast_shadows>
-		<geometry>
-		  <plane>
-		    <normal>0 0 1</normal>
-		    <size>15 19</size>
-		</plane>
-		</geometry>
-	      </visual> 
-	</link>
-	</model>
--->
+      <model name="staging_area">
+      <link name="staging_area_link">
+            <visual name="staging_area_visual">
+        <pose>10 0 0 0 0 0</pose>
+              <cast_shadows>false</cast_shadows>
+        <geometry>
+          <plane>
+            <normal>0 0 1</normal>
+            <size>15 19</size>
+        </plane>
+        </geometry>
+            </visual> 
+      </link>
+      </model>
+    -->
   </world>
 </sdf>
