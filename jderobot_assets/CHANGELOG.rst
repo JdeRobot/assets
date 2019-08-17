@@ -2,8 +2,8 @@
 Changelog for package jderobot_assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.0 (2019-08-18)
+------------------
 * updated perspective
 * added mouse and world
 * removed iris model from world file
