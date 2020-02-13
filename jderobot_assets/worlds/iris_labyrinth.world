@@ -4,42 +4,52 @@
 		<!-- Arrows -->
 		<include>
 			<uri>model://arrow</uri>
+			<name>arrow_1</name>
 			<pose>-4 -6 0 0 0 0</pose>
 		</include>
 		<include>
 			<uri>model://arrow</uri>
+			<name>arrow_2</name>
 			<pose>2.5 -6 0 0 0 0</pose>
 		</include>
 		<include>
 			<uri>model://arrow</uri>
+			<name>arrow_3</name>
 			<pose>9 -6 0 0 0 1.57</pose>
 		</include>
 		<include>
 			<uri>model://arrow</uri>
+			<name>arrow_4</name>
 			<pose>9 0 0 0 0 3.14</pose>
 		</include>
 		<include>
 			<uri>model://arrow</uri>
+			<name>arrow_5</name>
 			<pose>2 0 0 0 0 3.14</pose>
 		</include>
 		<include>
 			<uri>model://arrow</uri>
+			<name>arrow_6</name>
 			<pose>-6 0 0 0 0 1.57</pose>
 		</include>
 		<include>
 			<uri>model://arrow</uri>
+			<name>arrow_7</name>
 			<pose>-6 5 0 0 0 0</pose>
 		</include>
 		<include>
 			<uri>model://arrow</uri>
+			<name>arrow_8</name>
 			<pose>1 5 0 0 0 1.57</pose>
 		</include>
 		<include>
 			<uri>model://arrow</uri>
+			<name>arrow_9</name>
 			<pose>1 9 0 0 0 3.14</pose>
 		</include>
 		<include>
 			<uri>model://arrow</uri>
+			<name>arrow_10</name>
 			<pose>-6 9 0 0 0 3.14</pose>
 		</include>
 
