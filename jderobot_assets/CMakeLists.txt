@@ -23,6 +23,9 @@ if (CMAKE_INSTALL_PREFIX_INITIALIZED_TO_DEFAULT)
          CACHE PATH "default install path" FORCE)
 endif()
 
+set (MODELS ${CMAKE_INSTALL_PREFIX}/share/jderobot/gazebo/models)
+set (WORLDS ${CMAKE_INSTALL_PREFIX}/share/jderobot/gazebo/worlds)
+
 configure_file (
     assets-setup.sh.in
     assets-setup.sh
