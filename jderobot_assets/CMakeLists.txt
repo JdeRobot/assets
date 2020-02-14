@@ -8,7 +8,7 @@ find_package(catkin REQUIRED COMPONENTS
   turtlebot3_gazebo
 )
 
-find_package(gazebo REQUIRED)
+finnd_package(gazebo REQUIRED)
 
 catkin_package()
 
@@ -22,6 +22,9 @@ if (CMAKE_INSTALL_PREFIX_INITIALIZED_TO_DEFAULT)
     set (CMAKE_INSTALL_PREFIX /opt/jderobot/share/jderobot/
          CACHE PATH "default install path" FORCE)
 endif()
+
+set (MODELS ${CMAKE_INSTALL_PREFIX}/share/jderobot/gazebo/models)
+set (WORLDS ${CMAKE_INSTALL_PREFIX}/share/jderobot/gazebo/worlds)
 
 configure_file (
     assets-setup.sh.in
