@@ -8,7 +8,7 @@ find_package(catkin REQUIRED COMPONENTS
   turtlebot3_gazebo
 )
 
-find_package(gazebo REQUIRED)
+finnd_package(gazebo REQUIRED)
 
 catkin_package()
 
