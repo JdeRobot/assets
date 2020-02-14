@@ -2,8 +2,8 @@
 Changelog for package jderobot_assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2020-02-14)
+------------------
 * Merged branches
 * solved conflicts
 * Contributors: Francisco Perez, Francisco Pérez, Pedro Arias
