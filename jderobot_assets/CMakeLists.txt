@@ -3,17 +3,15 @@ project(jderobot_assets)
 
 ## ROS INSTALL ##
 
-find_package(catkin REQUIRED COMPONENTS
-  turtlebot3_description
-  turtlebot3_gazebo
-)
-
-find_package(gazebo REQUIRED)
+# find_package(catkin REQUIRED COMPONENTS
+#   turtlebot3_description
+#   turtlebot3_gazebo
+# )
 
 catkin_package()
 
 install(DIRECTORY models worlds perspectives urdf
-  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
+ DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 )
 
 ## JDEROBOT INSTALL ##
@@ -23,8 +21,8 @@ if (CMAKE_INSTALL_PREFIX_INITIALIZED_TO_DEFAULT)
          CACHE PATH "default install path" FORCE)
 endif()
 
-set (MODELS ${CMAKE_INSTALL_PREFIX}/share/jderobot/gazebo/models)
-set (WORLDS ${CMAKE_INSTALL_PREFIX}/share/jderobot/gazebo/worlds)
+set (MODELS ${CMAKE_INSTALL_PREFIX}/gazebo/models)
+set (WORLDS ${CMAKE_INSTALL_PREFIX}/gazebo/worlds)
 
 configure_file (
     assets-setup.sh.in
