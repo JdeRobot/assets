@@ -3,10 +3,11 @@ project(jderobot_assets)
 
 ## ROS INSTALL ##
 
-# find_package(catkin REQUIRED COMPONENTS
-#   turtlebot3_description
-#   turtlebot3_gazebo
-# )
+find_package(catkin REQUIRED COMPONENTS
+    gazebo_ros
+    #turtlebot3_description
+    #turtlebot3_gazebo
+)
 
 catkin_package()
 
