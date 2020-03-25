@@ -3,8 +3,7 @@ project(jderobot_assets)
 
 ## ROS INSTALL ##
 
-find_package(catkin REQUIRED COMPONENTS
-)
+find_package(catkin REQUIRED COMPONENTS)
 
 catkin_package()
 
