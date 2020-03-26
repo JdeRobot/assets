@@ -2,8 +2,8 @@
 Changelog for package jderobot_assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2020-03-25)
+------------------
 * Fix build fail in Debian stretch for ros melodic
 * fix double scene tag simple_circuit
 * remove catkin deps
