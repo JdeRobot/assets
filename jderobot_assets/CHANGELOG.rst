@@ -2,8 +2,8 @@
 Changelog for package jderobot_assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.2 (2020-04-22)
+------------------
 * Added models needed for drone-gymkhana exercise
 * Contributors: Pedro Arias
 
