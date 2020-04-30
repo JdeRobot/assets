@@ -159,6 +159,7 @@
       <odometryRate>20.0</odometryRate>
       <robotBaseFrame>car1</robotBaseFrame>
     </plugin>
+    <plugin name="carplugin" filename="libcarplugin.so"/>
   </model>
 
 <model name="car2">
@@ -200,6 +201,7 @@
       <odometryRate>20.0</odometryRate>
       <robotBaseFrame>car2</robotBaseFrame>
     </plugin>
+    <plugin name="carplugin" filename="libcarplugin.so"/>
   </model>
     
     
