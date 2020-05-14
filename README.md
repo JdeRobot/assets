@@ -2,8 +2,6 @@
 
 This repository contains all models and worlds required by the JdeRobot exercises. An effort has been made to have minimal new models and reuse the official models as much as possible. This is due to the fact that any models that are available through the official sources and are not available in the system are automatically downloaded and saved for future usage (This does mean that the first time boot may be much slower - depending on one's internet connection)
 
-
-
 ## Installation
 
 ### ROS Melodic 
@@ -16,7 +14,7 @@ sudo apt-get install ros-melodic-jderobot-assets
 
 ### ROS Kinetic
 
-The `kinetic-devel` branch has reached it's End Of Life (EOL) but can still be installed using the command:
+The `master` branch has also been released for ROS Kinetic, however it has reached it's End Of Life (EOL). It can still be installed using the command:
 
 ```bash
 sudo apt-get install ros-kinetic-jderobot-assets
@@ -26,7 +24,7 @@ sudo apt-get install ros-kinetic-jderobot-assets
 
 |         | Melodic | Kinetic |
 |:-------:|:-------:|:-------:|
-| Branch  | [`master`](https://github.com/JdeRobot/assets/tree/master)| [`kinetic-devel`](https://github.com/JdeRobot/assets/tree/kinetic-devel) |
+| Branch  | [`master`](https://github.com/JdeRobot/assets/tree/master)| [`master`](https://github.com/JdeRobot/assets/tree/master) |
 | Status  | supported | EOL |
 | Version | [version](http://repositories.ros.org/status_page/ros_melodic_default.html?q=jderobot_assets)| [version](http://repositories.ros.org/status_page/ros_kinetic_default.html?q=jderobot_assets) |
 
