@@ -14,15 +14,13 @@ The `master` branch has been released on the official ROS build farm and can be 
 sudo apt-get install ros-melodic-jderobot-assets
 ```
 
-The `kinetic-devel` branch has reached it's End Of Life (EOL) but can still be installed using the command:
-
 ### ROS Kinetic
+
+The `kinetic-devel` branch has reached it's End Of Life (EOL) but can still be installed using the command:
 
 ```bash
 sudo apt-get install ros-kinetic-jderobot-assets
 ```
-
-
 
 ## ROS Distro Support
 
