@@ -1,6 +1,3 @@
-<!-- Updated 31-05-2020 For ROS-Noetic  -->
-<!-- http://wiki.ros.org/noetic/Migration -->
-
 <?xml version="1.0"?>
 <?xml-model
   href="http://download.ros.org/schema/package_format3.xsd"
@@ -10,7 +7,7 @@
 <package format="3">
 
   <name>jderobot_assets</name>
-  <version>1.0.3</version>
+  <version>1.0.2</version>
   <description>The jderobot_assets package</description>
 
   <maintainer email="nikhilvkhedekar@gmail.com">Nikhil Khedekar</maintainer>
