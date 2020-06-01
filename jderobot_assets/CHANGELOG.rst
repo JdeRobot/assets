@@ -1,7 +1,7 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package jderobot_assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Forthcoming
+1.0.3 (2020-06-01)
 ------------------
 * Added ROS Noetic Release 
 * Fixed turtlebot3 line following exercise
