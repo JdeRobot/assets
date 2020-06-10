@@ -4,9 +4,9 @@ Changelog for package jderobot_assets
 
 Forthcoming
 -----------
-* Fixed turtlebot3 line following exercise
+* Launching turtlebot line follower fix
+* Fixed turtlebot3 line following
 * Added perspectives.
-* Updates to 3d_reconstruction and follow_line environment
 * Update car_1_junction.world
 * Create f1_1_circuit.launch
 * Update kobuki_1_reconstruccion3d.world
