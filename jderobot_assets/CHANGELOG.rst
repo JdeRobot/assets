@@ -2,8 +2,8 @@
 Changelog for package jderobot_assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.4 (2020-06-10)
+------------------
 * Launching turtlebot line follower fix
 * Fixed turtlebot3 line following
 * Added perspectives.
