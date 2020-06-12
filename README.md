@@ -14,7 +14,7 @@ sudo apt-get install ros-noetic-jderobot-assets
 
 ### ROS Melodic 
 
-The `master` branch has been released on the official ROS build farm and can be installed using the command:
+The `melodic-devel` branch has been released on the official ROS build farm and can be installed using the command:
 
 ```bash
 sudo apt-get install ros-melodic-jderobot-assets
@@ -32,9 +32,12 @@ sudo apt-get install ros-kinetic-jderobot-assets
 
 |         | Noetic | Melodic | Kinetic |
 |:-------:|:-------:|:-------:|:-------:|
-| Branch  | [`noetic-devel`](https://github.com/JdeRobot/assets/tree/noetic-devel) | [`master`](https://github.com/JdeRobot/assets/tree/master)| [`master`](https://github.com/JdeRobot/assets/tree/master) |
+| Branch  | [`noetic-devel`](https://github.com/JdeRobot/assets/tree/noetic-devel) | [`melodic-devel`](https://github.com/JdeRobot/assets/tree/melodic-devel)| [`master`](https://github.com/JdeRobot/assets/tree/master) |
 | Status  | supported | supported | EOL |
-| Version | [version](http://repositories.ros.org/status_page/ros_noetic_default.html?q=jderobot_assets) | [version](http://repositories.ros.org/status_page/ros_melodic_default.html?q=jderobot_assets)| [version](http://repositories.ros.org/status_page/ros_kinetic_default.html?q=jderobot_assets) |
+| Version | [1.1.0](http://repositories.ros.org/status_page/ros_noetic_default.html?q=jderobot_assets)<sup>1</sub> | [1.0.2](http://repositories.ros.org/status_page/ros_melodic_default.html?q=jderobot_assets)<sup>2</sup> | [1.0.1](http://repositories.ros.org/status_page/ros_kinetic_default.html?q=jderobot_assets) |
+
+<sup>1</sup> _Noetic versions: 1.1.X_ --
+<sup>2</sup> _Melodic versions: 1.0.X_
 
 ## ROS Buildfarm
 
