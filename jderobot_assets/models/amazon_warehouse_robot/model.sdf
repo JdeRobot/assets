@@ -266,7 +266,7 @@
          <child>top_lift</child>
          <parent>chassis</parent>
          <axis>
-            <xyz>0 0 1</xyz>
+            <xyz>0 1 0</xyz>
             <limit>
                <upper>0.05</upper>
                <lower>0</lower>
@@ -280,7 +280,7 @@
          <child>left_wheel</child>
          <parent>chassis</parent>
          <axis>
-            <xyz>0 1 0</xyz>
+            <xyz>0 0 1</xyz>
          </axis>
       </joint>
 
@@ -289,7 +289,7 @@
          <child>right_wheel</child>
          <parent>chassis</parent>
          <axis>
-            <xyz>0 1 0</xyz>
+            <xyz>0 0 1</xyz>
          </axis>
       </joint>
 
@@ -312,10 +312,9 @@
 
       <!-- Attach the ROS Differential Drive Plugin to this model> -->
       <plugin name="differential_drive_controller" filename="libgazebo_ros_diff_drive.so">
-         <robotNamespace />
          <alwaysOn>true</alwaysOn>
          <updateRate>10</updateRate>
-         <legacyMode>true</legacyMode>
+         <legacyMode>false</legacyMode>
          <leftJoint>left_wheel_joint</leftJoint>
          <rightJoint>right_wheel_joint</rightJoint>
          <wheelSeparation>0.5380</wheelSeparation>
