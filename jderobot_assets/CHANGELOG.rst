@@ -1,11 +1,23 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package jderobot_assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1.1.0 (2020-06-11)
+------------------
+* Set noetic version
+* Minor changes on README
+* Contributors: Shreyas Gokhale, pariaspe
+
 1.0.3 (2020-06-01)
 ------------------
-* Added ROS Noetic Release
-* Updated turtlebot line following exercise
-* Contributors: Shreyas Gokhale
+* Added ROS Noetic Release 
+* Fixed turtlebot3 line following exercise
+* Added perspectives.
+* Updates to 3d_reconstruction and follow_line environment
+* Update car_1_junction.world
+* Create f1_1_circuit.launch
+* Update kobuki_1_reconstruccion3d.world
+* Contributors: JoseMaria Cañas, Sakshay Mahna, Shreyas Gokhale, pariaspe
+>>>>>>> upstream/noetic-devel
 
 1.0.2 (2020-04-22)
 ------------------

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="003be9f9-6c9f-470f-b2c7-368c82603b32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jderobot_assets/CHANGELOG.rst" beforeDir="false" afterPath="$PROJECT_DIR$/jderobot_assets/CHANGELOG.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jderobot_assets/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jderobot_assets/package.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Shreyas Gokhale &lt;shreyas6gokhale@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dmqmr5KYEHOKYSDEYW0UNuZUQg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="003be9f9-6c9f-470f-b2c7-368c82603b32" name="Default Changelist" comment="" />
+      <created>1593040777275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593040777275</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Amazon Exercise: Changed Model">
+      <created>1593156754606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593156754606</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Amazon Exercise: Changed Model" />
+    <option name="LAST_COMMIT_MESSAGE" value="Amazon Exercise: Changed Model" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="495" y="75" width="921" height="927" key="CommitChangelistDialog2" timestamp="1593156753268">
+      <screen x="0" y="24" width="1920" height="1028" />
+    </state>
+    <state x="495" y="75" width="921" height="927" key="CommitChangelistDialog2/0.24.1920.1028@0.24.1920.1028" timestamp="1593156753268" />
+    <state x="666" y="211" width="580" height="656" key="RollbackChangesDialog" timestamp="1593215579856">
+      <screen x="0" y="24" width="1920" height="1028" />
+    </state>
+    <state x="666" y="211" width="580" height="656" key="RollbackChangesDialog/0.24.1920.1028@0.24.1920.1028" timestamp="1593215579856" />
+    <state x="555" y="274" width="802" height="529" key="Vcs.Push.Dialog.v2" timestamp="1593156768433">
+      <screen x="0" y="24" width="1920" height="1028" />
+    </state>
+    <state x="555" y="274" width="802" height="529" key="Vcs.Push.Dialog.v2/0.24.1920.1028@0.24.1920.1028" timestamp="1593156768433" />
+  </component>
+</project>
