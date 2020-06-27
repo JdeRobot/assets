@@ -17,6 +17,7 @@ Changelog for package jderobot_assets
 * Create f1_1_circuit.launch
 * Update kobuki_1_reconstruccion3d.world
 * Contributors: JoseMaria Cañas, Sakshay Mahna, Shreyas Gokhale, pariaspe
+>>>>>>> upstream/noetic-devel
 
 1.0.2 (2020-04-22)
 ------------------
