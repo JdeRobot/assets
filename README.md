@@ -1,6 +1,10 @@
 # assets
 
-This repository contains all models and worlds required by the JdeRobot exercises. An effort has been made to have minimal new models and reuse the official models as much as possible. This is due to the fact that any models that are available through the official sources and are not available in the system are automatically downloaded and saved for future usage (This does mean that the first time boot may be much slower - depending on one's internet connection)
+
+THIS REPOSITORY HAS BEEN ARCHIVED AND IS DEPRECATED. Its contents have been split and moved into three different repositories: [JdeRobot/CustomRobots](https://github.com/JdeRobot/CustomRobots), [JdeRobot/drones](https://github.com/JdeRobot/drones) and [JdeRobot/IndustrialRobots](https://github.com/JdeRobot/IndustrialRobots)
+
+
+This repository contains all models and worlds required by the exercises of RoboticsAcademy and several JdeRobot tools. An effort has been made to have minimal new models and reuse the official models as much as possible. This is due to the fact that any models that are available through the official sources and are not available in the system are automatically downloaded and saved for future usage (This does mean that the first time boot may be much slower - depending on one's internet connection)
 
 ## Installation
 
